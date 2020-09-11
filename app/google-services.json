@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492336801595",
+    "firebase_url": "https://chattingbig.firebaseio.com",
+    "project_id": "chattingbig",
+    "storage_bucket": "chattingbig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492336801595:android:ef96f87e94c917abceb91e",
+        "android_client_info": {
+          "package_name": "com.example.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492336801595-4hgqut17kciac79518ouinnirrgb82uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs0r7l3FOye3oDKjl965kVHPK7M7Wl6Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492336801595-4hgqut17kciac79518ouinnirrgb82uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
